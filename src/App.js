@@ -1,5 +1,5 @@
 import './App.css';
-import MyPlusOneButton from 'my-plus-one-button'
+import { MyPlusOneButton } from 'my-plus-one-button'
 
 function App() {
   return (
